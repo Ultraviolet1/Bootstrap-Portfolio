@@ -11,6 +11,12 @@ body {
   }
   
   /* general */
+
+  .thumbnail {
+    width: 150px;
+    height: 150px;
+
+  }
   
   .container {
     width: 100%;
